@@ -26,7 +26,7 @@ This AI-powered web application helps HR professionals and recruiters efficientl
 ### 🔹 Web Application (Desktop View)
 | Home Page | Job Description Input |
 |-----------|----------------------|
-| ![Home](assets/home.png) | ![Job Description](assets/job_description.png) |
+| ![Home](Assets/home Page.png) | ![Job Description](assets/job_description.png) |
 
 | Ranking | Score Graph |
 |---------|-----------|
