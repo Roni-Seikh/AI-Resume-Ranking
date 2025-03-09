@@ -1,16 +1,11 @@
 # AI-Resume-Ranking
 
-file---
-
 ## 📁 Folder Structure
 ```
 📂 AI-Resume-Ranking
 │── 📂 assets              # Contains screenshots for README
-│── 📂 data                # Sample resumes (optional)
-│── 📜 app.py              # Main Streamlit application
-│── 📜 requirements.txt    # Dependencies
+│── 📜 resume_ranking.py              # Main Streamlit application
 │── 📜 README.md           # Project documentation
-│── 📜 .gitignore          # Ignore unnecessary files
 ```
 
 ---
