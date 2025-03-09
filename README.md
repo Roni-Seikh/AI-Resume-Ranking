@@ -1,5 +1,9 @@
 # 📄 AI-Powered Resume Screening & Ranking System
 
+<p align="center">
+  <img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Home%20Page.png" width="800">
+</p>
+
 ## 📁 Folder Structure
 ```
 📂 AI-Resume-Ranking
