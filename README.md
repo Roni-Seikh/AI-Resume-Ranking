@@ -99,7 +99,7 @@ streamlit run resume_ranking.py
 ---
 
 ## 📤 Export & Download
-- Results can be **downloaded in Excel format** (`resume_ranking.csv`)
+- Results can be **downloaded in Excel format** 
 
 ---
 
