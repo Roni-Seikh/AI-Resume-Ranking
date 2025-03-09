@@ -21,23 +21,57 @@ This AI-powered web application helps HR professionals and recruiters efficientl
 
 ---
 
-## 🖥️ Screenshots
-
 ### 🔹 Web Application (Desktop View)
-| Home Page | Job Description Input |
-|-----------|----------------------|
-| ![Home](https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Home%20Page.png) | 
+<table>
+  <tr>
+    <th>Home Page</th>
+    <th>Job Description Input</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Home%20Page.png" width="400"></td>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Job%20Description.png" width="400"></td>
+  </tr>
+  <tr>
+    <th>Ranking</th>
+    <th>Score Graph</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Ranking.png" width="400"></td>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Graph1.png" width="400"></td>
+  </tr>
+</table>
 
-![Job Description](assets/job_description.png) |
-
-| Ranking | Score Graph |
-|---------|-----------|
-| ![Ranking](assets/ranking.png) | ![Graph](assets/graph_chart.png) |
+---
 
 ### 📱 Mobile Responsive View
-| Home Page | Ranking | Score Graph |
-|-----------|---------|-------------|
-| ![Mobile Home](assets/mobile_home.png) | ![Mobile Ranking](assets/mobile_ranking.png) | ![Mobile Graph](assets/mobile_graph.png) |
+<table>
+  <tr>
+    <th>Home Page</th>
+    <th>Ranking</th>
+    <th>Score Graph</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Mobile%20Screen%20Home%20Page.png" width="250"></td>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Mobile%20Screen%20Ranking.png" width="250"></td>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Mobile%20Screen%20Graph.png" width="250"></td>
+  </tr>
+</table>
+
+---
+
+### 📂 Additional Screenshots
+<table>
+  <tr>
+    <th>Download Result</th>
+    <th>Extra Graph 1</th>
+    <th>Extra Graph 2</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Download%20Result.png" width="250"></td>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Graph1.png" width="250"></td>
+    <td><img src="https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Graph2.png" width="250"></td>
+  </tr>
+</table>
 
 ---
 
