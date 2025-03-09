@@ -8,11 +8,6 @@
 │── 📜 README.md           # Project documentation
 ```
 
----
-
-## 📜 `README.md` Template
-
-```md
 # 📄 AI-Powered Resume Screening & Ranking System
 
 ### 🚀 Developed as part of AICTE Internship on AI: Transformative Learning  
@@ -88,5 +83,3 @@ streamlit run app.py
 ## 🌍 Connect With Me  
 👨‍💻 [GitHub](https://github.com/Roni-Seikh) | 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 ```
-
----
