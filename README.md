@@ -1,4 +1,4 @@
-# AI-Resume-Ranking
+# 📄 AI-Powered Resume Screening & Ranking System
 
 ## 📁 Folder Structure
 ```
@@ -7,8 +7,6 @@
 │── 📜 resume_ranking.py   # Main Streamlit application
 │── 📜 README.md           # Project documentation
 ```
-
-# 📄 AI-Powered Resume Screening & Ranking System
 
 ### 🚀 Developed as part of AICTE Internship on AI: Transformative Learning  
 ### 🏆 Under TechSaksham Initiative (Microsoft & SAP) via Edunet Foundation  
@@ -81,5 +79,5 @@ streamlit run app.py
 ---
 
 ## 🌍 Connect With Me  
-👨‍💻 [GitHub](https://github.com/Roni-Seikh) | 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+👨‍💻 [GitHub](https://github.com/Roni-Seikh) | 💼 [LinkedIn](Check out Roni Seikh’s profile on LinkedIn https://in.linkedin.com/in/roniseik)
 ```
