@@ -8,8 +8,8 @@
 ```
 📂 AI-Resume-Ranking
 │── 📂 assets              # Contains screenshots for README
-│── 📜 resume_ranking.py   # Main Streamlit application
 │── 📜 README.md           # Project documentation
+│── 📜 resume_ranking.py   # Main Streamlit application
 ```
 
 ### 🚀 Developed as part of AICTE Internship on AI: Transformative Learning  
