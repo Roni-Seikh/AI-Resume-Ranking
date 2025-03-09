@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 3️⃣ **Run the Streamlit app**  
 ```bash
-streamlit run app.py
+streamlit run resume_ranking.py
 ```
 
 ---
@@ -79,5 +79,6 @@ streamlit run app.py
 ---
 
 ## 🌍 Connect With Me  
-👨‍💻 [GitHub](https://github.com/Roni-Seikh) | 💼 [LinkedIn](Check out Roni Seikh’s profile on LinkedIn https://in.linkedin.com/in/roniseik)
+👨‍💻 [GitHub](https://github.com/Roni-Seikh) | 💼 [LinkedIn](https://in.linkedin.com/in/roniseikh)
+ 
 ```
