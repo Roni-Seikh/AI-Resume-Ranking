@@ -26,7 +26,9 @@ This AI-powered web application helps HR professionals and recruiters efficientl
 ### 🔹 Web Application (Desktop View)
 | Home Page | Job Description Input |
 |-----------|----------------------|
-| ![Home](https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Home%20Page.png) | ![Job Description](assets/job_description.png) |
+| ![Home](https://github.com/Roni-Seikh/AI-Resume-Ranking/blob/main/Assets/Home%20Page.png) | 
+
+![Job Description](assets/job_description.png) |
 
 | Ranking | Score Graph |
 |---------|-----------|
